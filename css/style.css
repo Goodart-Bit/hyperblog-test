@@ -7,12 +7,29 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     border: 1px solid #DDD;
     margin: 0 auto;
     text-align: left;
 }
 
 #container h1{
-    font-size: 50px;
+    font-size: 20px;
+}
+
+#cabecera
+{
+    background-color: rgb(42, 147, 189);
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    color: white;
+    box-shadow: 15px 9px 51px -6px rgba(148,142,148,1);;
+}
+
+#cabecera #tagline
+{
+    color: white;
+    font-weight: normal;
+    font-size: 0.8em;
 }
