@@ -1,16 +1,18 @@
 body {
-    color: #216a94;
+    color: #262b2e;
     font-family: Arial, monospace, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: rgb(30, 19, 37);
 }
 
 #container {
     width: 70%;
-    padding: 0;
-    border: 1px solid #DDD;
     margin: 0 auto;
     text-align: left;
+    padding-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
 }
 
 #container h1{
@@ -19,12 +21,13 @@ body {
 
 #cabecera
 {
-    background-color: rgb(42, 147, 189);
+    background-color: rgb(94, 25, 73);
     margin: 0;
-    padding: 0.5em;
+    padding: 0.9em;
     font-weight: bold;
     color: white;
-    box-shadow: 15px 9px 51px -6px rgba(148,142,148,1);;
+    box-shadow: 15px 9px 51px -6px rgba(148,142,148,1);
+    margin-bottom: 10px;
 }
 
 #cabecera #tagline
@@ -32,4 +35,17 @@ body {
     color: white;
     font-weight: normal;
     font-size: 0.8em;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+
+#cabecera #logo{
+    width: 50px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+#container > p, #container > h1 {
+    margin: 0 20px;
 }
