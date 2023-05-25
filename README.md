@@ -4,6 +4,7 @@ Hyperblog es un post de casos de misterio inspirado en las revistas de los años
 * Experiencias sobrenaturales
 * Documentación de casos paranormales
 * Creado por Juan Mateo De la Hoz
+* Compatible para las versiones de Chrome del 2017 en adelante
 
 ## Contribuir
 Para agregar historias al repositorio, simplemente <a href="https://m.media-amazon.com/images/I/61MwVMRZUkL.jpg"><u>cree su cuenta</u></a>, dirijase al menu principal y seleccione la opcion de <i>Escribir un artículo</i>, otros usuarios esperan con ansias su participación.
